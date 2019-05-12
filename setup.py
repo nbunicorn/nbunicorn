@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
   name = 'nbunicorn',
   packages = setuptools.find_packages(),
-  version = '0.0',
+  version = '0.2.0',
   description = 'nbunicorn',
   long_description = 'nbunicorn',
   long_description_content_type = 'text/markdown',

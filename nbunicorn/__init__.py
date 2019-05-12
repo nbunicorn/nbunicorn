@@ -1,1 +1,2 @@
-print('nbunicorn')
+def expose(func):
+	return func
