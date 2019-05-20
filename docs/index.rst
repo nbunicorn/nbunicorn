@@ -59,7 +59,7 @@ This will start the deployment process for your notebook. Once deployment has st
 Integrating your notebook
 -------------------------
 
-Once your deployment is complete, each function decorated with python:`@nbunicorn.expose` is available as a REST endpoint. You might choose to integrate this using your own code in any language you prefer.
+Once your deployment is complete, each function decorated with :python:`@nbunicorn.expose` is available as a REST endpoint. You might choose to integrate this using your own code in any language you prefer.
 
 To make things simple, we provide ``nbunicorn.js``, which is a JavaScript client specific to your notebook.
 
