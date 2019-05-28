@@ -72,5 +72,5 @@ You can use ``nbunicorn.js`` in any HTML page by sourcing *https://<notebook>-<h
 	    var inputs = {
 	        x: 1
 	    };
-	    your_function(inputs).then(console.log);
+	    nbunicorn.your_function(inputs).then(console.log);
 	</script>
